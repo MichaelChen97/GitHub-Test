@@ -9,9 +9,7 @@
 
             //changes made by naman
             Console.WriteLine("Fuck You Guys");
-
-            // changes made by thomas
-            Console.WriteLine("123456");
+            Console.WriteLine("1.45 pm, Aug 21 2025");
         }
     }
 }
