@@ -4,8 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Chelsea");
-            Console.WriteLine("12345677788");
+            Console.WriteLine("Hello, World!");
+
+
+            //changes made by naman
+            Console.WriteLine("Fuck You Guys");
         }
     }
 }
